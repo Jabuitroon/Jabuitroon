@@ -45,12 +45,4 @@ You can click the Preview link to take a look at your changes.
 }
 ```
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabuitroon&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabuitroon&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jabuitroon&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabuitroon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
