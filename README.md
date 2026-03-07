@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I’m Andrés Buitrón[![Linkedin: Jabuitroon](https://img.shields.io/badge/-Jabuitroon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabuitroon/)](https://www.linkedin.com/in/jabuitroon/)
 
 ## Frontend Web Developer...  
-:star: Soy un entusiasta por la tecnología y el desarrollo web, me gusta aprender constantemente y de las demás personas también.
+:star: Soy un entusiasta por la tecnología y el desarrollo de software, me gusta aprender constantemente.
 
-:mag_right: Pregunto cualquier duda y trataré de resolver preguntas de compañeros, lo que me permite trabajar en equipo.
+:mag_right: Trabajo en equipo, pregunto cualquier duda y trataré de resolver preguntas de compañeros.
 
-## <My Stack />
+## `<My Stack />`
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
